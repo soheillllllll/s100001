@@ -1,0 +1,12 @@
+git branch
+
+git switch master
+
+git add .
+
+git commit -m "commit"
+
+------ git remote origin http/ nhftcvdff
+
+git push origin master
+
